@@ -1,6 +1,11 @@
 /* Vos customisations des classes de Bootstrap */
 
-
+#home{
+    padding:20px;
+    background-image: url("../images/hero-image.jpg");
+    background-size: cover;
+    background-position: top;
+}
 
 
 /* Responsive Styling */
